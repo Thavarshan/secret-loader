@@ -1,6 +1,6 @@
 # Secrets Loader 🔐
 
-**EnvSecrets** is a script to load environment variables from secret stores like AWS SSM and CloudFormation directly into your `.env` file. This tool simplifies the management of environment variables by securely fetching secrets for local development, testing, and production environments, ensuring sensitive data stays out of version control.
+**Secrets-Loader** is a script to load environment variables from secret stores like AWS SSM and CloudFormation directly into your `.env` file. This tool simplifies the management of environment variables by securely fetching secrets for local development, testing, and production environments, ensuring sensitive data stays out of version control.
 
 ---
 
